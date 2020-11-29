@@ -30,7 +30,7 @@ spec:
                   key: password
 
             - name: POSTGRES_DB
-              value: salessystem
+              value: warehouse
 
           ports:
             - containerPort: 5432
